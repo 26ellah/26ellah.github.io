@@ -1,2 +1,2 @@
-# 26ellah.github.io
+# Ella Hawkins Digital Gallery
 online gallery/ portfolio
