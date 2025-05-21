@@ -1,6 +1,9 @@
 # Ella Hawkins Digital Gallery
 *online gallery/ portfolio*
 
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+_config.yml
+title: My Cool Site
+description: This is my Slate-themed GitHub Pages site
+theme: jekyll-theme-slate
+
+
