@@ -1,4 +1,4 @@
-# Ella Hawkins Digital Gallery
+# Digital Gallery
 
 
 
